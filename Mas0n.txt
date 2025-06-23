@@ -1,3 +1,0 @@
-Айгиз Мавлетбердин 	  RU_From_UTF-16_LE
-Aygiz Mavletberdin 	  EN_From_UTF-16_LE
-Aygiz Mavletberdin 	  EN_From_ASCII
