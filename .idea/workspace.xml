@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="Start!">
-      <change afterPath="$PROJECT_DIR$/AboutMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutputSymbolsToFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Symbols_Counter.txt.py" afterDir="false" />
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="Output">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AboutMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AboutMe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutputSymbolsToFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/OutputSymbolsToFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Symbols_Counter.txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Symbols_Counter.txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Welcome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Welcome.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +31,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MasonX0"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MasonX0&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubProjectSettings">
     <option name="branchProtectionPatterns">
       <list>
@@ -43,12 +44,12 @@
       </list>
     </option>
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MasonX0/Internship_2025-1",
-    "accountId": "64f1f89e-68aa-40d8-a837-ac50e3e902ba"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MasonX0/Internship_2025-1&quot;,
+    &quot;accountId&quot;: &quot;64f1f89e-68aa-40d8-a837-ac50e3e902ba&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -57,17 +58,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.OutputSymbolsToFile.executor": "Run",
-    "Python.Welcome.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Ajgiz__MasOn"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.OutputSymbolsToFile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Welcome.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Ajgiz__MasOn&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -99,7 +100,47 @@
       <option name="project" value="LOCAL" />
       <updated>1750688667890</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finished the main part. It remains to figure out the 3rd task(">
+      <option name="closed" value="true" />
+      <created>1750712161130</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750712161130</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Almost done">
+      <option name="closed" value="true" />
+      <created>1750712490688</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750712490688</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Almost done">
+      <option name="closed" value="true" />
+      <created>1750712524552</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1750712524552</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Almost done">
+      <option name="closed" value="true" />
+      <created>1750712534571</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1750712534571</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Output">
+      <option name="closed" value="true" />
+      <created>1750712576204</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1750712576204</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +157,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start" />
     <MESSAGE value="Start!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start!" />
+    <MESSAGE value="Finished the main part. It remains to figure out the 3rd task(" />
+    <MESSAGE value="Almost done" />
+    <MESSAGE value="Output" />
+    <option name="LAST_COMMIT_MESSAGE" value="Output" />
   </component>
 </project>
