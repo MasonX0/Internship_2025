@@ -4,7 +4,7 @@ name_lat = "Khayrullin Dinar"
 
 # Открываем файл для записи
 with open("output.txt", "w", encoding="utf-8") as f:
-    # Функция для обработки и записи информации
+    # Функция для обработки и записи информаци
     def write_info(name, title):
         f.write(f"{title}\n")
 
