@@ -10,11 +10,11 @@ with open("output.txt", "w", encoding="utf-8") as f:
 
         # Юникод (десятичный)
         unicode_dec = [str(ord(c)) for c in name]
-        f.write("Юникод (десятичный): " + " ".join(unicode_dec) + "\n")
+        f.write("Unicode (десятичный): " + " ".join(unicode_dec) + "\n")
 
         # Юникод (шестнадцатеричный)
         unicode_hex = [hex(ord(c))[2:].upper().zfill(4) for c in name]
-        f.write("Юникод (шестнадцатеричный): " + " ".join(unicode_hex) + "\n")
+        f.write("Unicode (шестнадцатеричный): " + " ".join(unicode_hex) + "\n")
 
         # ASCII (если возможно)
         if all(ord(c) < 128 for c in name):
