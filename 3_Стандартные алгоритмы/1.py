@@ -1,14 +1,18 @@
 
-PriceOfNotebook=2.75
-PriceOfPencil=0.85
+
+
 #Счет
-print("Цена тетради (руб.): 2.75")
-print("Количество тетрадей (шт.): ",end="")
-CountOfNotebook=int(input())
-print("Цена карандаша (руб.):  0.85")
-print("Количество карандашей (шт): ",end="")
-CountOfPencil=int(input())
-SummOfPurchase = PriceOfPencil*CountOfPencil + PriceOfNotebook*CountOfNotebook
+print("Введите количество товарных единиц: ",end="")
+CommodityUnit=int(input())
+ListOfCommodyNames=[]
+ListOfCommodyPrices=[]
+SummOfPurchase=0
+for i in range(CommodityUnit):
+    print("Цена товара {0} (руб.): ".format(1+i),end="")
+    ListOfCommodyNames.append(float(input()))
+    print("Количество товара {} (шт.): ".format(1+i), end="")
+    ListOfCommodyPrices.append(int(input()))
+    SummOfPurchase+=ListOfCommodyPrices[i]*ListOfCommodyNames[i]
 if (300<SummOfPurchase < 500.0):
     Discount = 0.03
     SummOfPurchaseWithDiscount=SummOfPurchase * (1-Discount)
@@ -29,32 +33,27 @@ print("\tИТОГ: {0} руб.\t".format(SummOfPurchaseWithDiscount))
 
 #Чек
 print("\n\n\n\nВАШ ЧЕК")
-print("Дата 14.04.2035")
-print("Кассир Мавлетбердина А.А.\n")
-print("Тетрадь	{0} шт.* {1}		{2}".format(PriceOfNotebook,CountOfNotebook,PriceOfNotebook*CountOfNotebook))
-print("Карандаш	{0} шт.* {1}		{2}\n".format(PriceOfPencil,CountOfPencil,PriceOfPencil*CountOfPencil))
+print("Дата 26.07.2039")
+print("Кассир Мавлетбердин М.А.\n")
+for i in range(CommodityUnit):
+    print("Товара №{0} {1}шт.* {2} (руб.): {3}".format((1+i),int(ListOfCommodyNames[i]),float(ListOfCommodyPrices[i]),float(ListOfCommodyPrices[i]*ListOfCommodyNames[i])))
 print("\tСтоимость покупки: {0} руб.".format(SummOfPurchase))
 print("\tСкидка	{0}% : {1} ".format(int(Discount),SummOfPurchase*Discount))
 print("\tИТОГО К ОПЛАТЕ   {0} руб.".format(SummOfPurchase))
 
-# Цена тетради (руб.):  2.75
-# Количество тетрадей (шт.): 150
-# Цена карандаша (руб.): 0.85
-# Количество карандашей (шт): 25
+# Введите количество товарных единиц: 2
+# Цена  товара1(руб.):  2.75
+# Количество товара1(шт.): 5
+# Цена товара2 (руб.): 0.85
+# Количество товара2(шт): 2
 #
-# 	Стоимость покупки: 433.75 руб.
-# 	СКИДКА 3%:	13.01
-# 	ИТОГ:	420.74 руб.
+# 	Стоимость покупки: 15.45 руб.
 #
 #  Предусмотрите печать чека в файл в виде:
-# Дата 30.06.2015
+# Дата 25.06.2014
 # Кассир Иванова И.П.
 #
-# Тетрадь	150 шт.* 2.75		412.5
-# Карандаш	25 шт.* 0.85		21.25
+# Товар1	5 шт.* 2.75		13.75
+# Товар2	2 шт.* 0.85		1.70
 #
-#
-# Стоимость покупки: 433.75 руб.
-# 	СКИДКА 3%:	13.01
-#
-# ИТОГО К ОПЛАТЕ	420.74 руб.
+# ИТОГО К ОПЛАТЕ			15.45 руб.
