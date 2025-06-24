@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="First laboratory work is done!">
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="little sort">
+      <change afterPath="$PROJECT_DIR$/2_Кодирование чисел/Examination.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +58,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Examination.executor": "Run",
     "Python.OutputSymbolsToFile.executor": "Run",
     "Python.SymbolsToCODE.executor": "Run",
     "Python.Welcome.executor": "Run",
@@ -151,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750780651295</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="little sort">
+      <option name="closed" value="true" />
+      <created>1750781579123</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1750781579123</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +182,7 @@
     <MESSAGE value="Almost done" />
     <MESSAGE value="Output" />
     <MESSAGE value="First laboratory work is done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="First laboratory work is done!" />
+    <MESSAGE value="little sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="little sort" />
   </component>
 </project>
