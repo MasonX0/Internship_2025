@@ -1,6 +1,6 @@
 isRepeat = True
 count = 0
-with open('2.txt', 'w', encoding='utf-8') as f:
+with open('2.3.txt', 'w', encoding='utf-8') as f:
     while isRepeat == True:
         f.write("\n")
         print("Единицы измерения:")
