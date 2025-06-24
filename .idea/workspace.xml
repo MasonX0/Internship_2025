@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="The first practical work is not finished.">
-      <change afterPath="$PROJECT_DIR$/1PracticeTask/TheFullNameDecoding.py" afterDir="false" />
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="The first practical work is finished.">
+      <change afterPath="$PROJECT_DIR$/4PracticeTask/4PracticeCode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4PracticeTask/Практика 4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4PracticeTask/Практика 4.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,13 +67,15 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.1.1EncodingTheFullFame.executor": "Run",
+    "Python.2PracticeCode.executor": "Run",
     "Python.TheFullNameDecoding.executor": "Run",
     "Python.Welcome.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "#2 on Dinar__1",
-    "last_opened_file_path": "C:/Users/lenovo/PycharmProjects/Internship_2025-1/1PracticeTask"
+    "last_opened_file_path": "C:/Users/lenovo/PycharmProjects/Internship_2025-1/4PracticeTask",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -119,13 +123,22 @@
       <option name="project" value="LOCAL" />
       <updated>1750705250386</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="The first practical work is finished.">
+      <option name="closed" value="true" />
+      <created>1750748239666</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750748239666</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I wrote code for first practice task" />
     <MESSAGE value="I wrote the code for the first practical assignment." />
     <MESSAGE value="The first practical work is not finished." />
-    <option name="LAST_COMMIT_MESSAGE" value="The first practical work is not finished." />
+    <MESSAGE value="The first practical work is finished." />
+    <option name="LAST_COMMIT_MESSAGE" value="The first practical work is finished." />
   </component>
 </project>
