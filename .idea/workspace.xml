@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="I wrote the code for the first practical assignment.">
-      <change beforePath="$PROJECT_DIR$/1PracticeTask/1.1EncodingTheFullFame.py" beforeDir="false" afterPath="$PROJECT_DIR$/1PracticeTask/1.1EncodingTheFullFame.py" afterDir="false" />
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="The first practical work is not finished.">
+      <change afterPath="$PROJECT_DIR$/1PracticeTask/TheFullNameDecoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,18 +41,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Tatarchonok11"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Tatarchonok11&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MasonX0/Internship_2025-1.git",
-    "accountId": "d805a5cd-14c2-42ab-8d29-eea55adf0b8e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MasonX0/Internship_2025-1.git&quot;,
+    &quot;accountId&quot;: &quot;d805a5cd-14c2-42ab-8d29-eea55adf0b8e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -64,13 +65,20 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.1.1EncodingTheFullFame.executor": "Run",
+    "Python.TheFullNameDecoding.executor": "Run",
     "Python.Welcome.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Dinar__1"
+    "git-widget-placeholder": "#2 on Dinar__1",
+    "last_opened_file_path": "C:/Users/lenovo/PycharmProjects/Internship_2025-1/1PracticeTask"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\PycharmProjects\Internship_2025-1\1PracticeTask" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -103,12 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1750691054232</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="The first practical work is not finished.">
+      <option name="closed" value="true" />
+      <created>1750705250386</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750705250386</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I wrote code for first practice task" />
     <MESSAGE value="I wrote the code for the first practical assignment." />
-    <option name="LAST_COMMIT_MESSAGE" value="I wrote the code for the first practical assignment." />
+    <MESSAGE value="The first practical work is not finished." />
+    <option name="LAST_COMMIT_MESSAGE" value="The first practical work is not finished." />
   </component>
 </project>

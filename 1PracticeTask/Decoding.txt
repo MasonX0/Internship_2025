@@ -1,0 +1,3 @@
+ХайруллинДинар   from UTF-16 LE(RU)
+KhayrullinDinar  from UTF-16 LE(EN)
+KhayrullinDinar  from ASCII(EN)
