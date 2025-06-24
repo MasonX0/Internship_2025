@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="1.3, 1 done">
-      <change afterPath="$PROJECT_DIR$/3_Стандартные алгоритмы/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Стандартные алгоритмы/readme.txt" afterDir="false" />
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="2.1">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Стандартные алгоритмы/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Стандартные алгоритмы/2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +68,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "Ajgiz__MasOn",
     "last_opened_file_path": "C:/Users/T-y-r/PycharmProjects/Internship_2025-1"
   }
@@ -204,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750789273299</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2.1">
+      <option name="closed" value="true" />
+      <created>1750791226361</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1750791226361</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,6 +239,7 @@
     <MESSAGE value="1.1" />
     <MESSAGE value="1.2" />
     <MESSAGE value="1.3, 1 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.3, 1 done" />
+    <MESSAGE value="2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.1" />
   </component>
 </project>
