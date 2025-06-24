@@ -1,9 +1,4 @@
-# 🟢Experimantal repository for this summer internship🟢
-## 💙Before start 
-### 1. Create a new issue with a collaboration request 
-### 2. Create your own branch from the main branch (YourName_Whatever)
-## Good luck!💙
+# 🟢Hi there!🟢
 
 
-# 🔴Warning!!!🔴
-## This repository is based on PyCharm IDE, NOT ON IDLE, NOT ON VSC ...
+

@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="Output">
-      <change afterPath="$PROJECT_DIR$/SymbolsToCODE.py" afterDir="false" />
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="First laboratory work is done!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,9 +63,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Ajgiz__MasOn"
+    "git-widget-placeholder": "Ajgiz__MasOn",
+    "last_opened_file_path": "C:/Users/T-y-r/PycharmProjects/Internship_2025-1"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\T-y-r\PycharmProjects\Internship_2025-1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -138,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750712576204</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="First laboratory work is done!">
+      <option name="closed" value="true" />
+      <created>1750780651295</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1750780651295</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +171,7 @@
     <MESSAGE value="Finished the main part. It remains to figure out the 3rd task(" />
     <MESSAGE value="Almost done" />
     <MESSAGE value="Output" />
-    <option name="LAST_COMMIT_MESSAGE" value="Output" />
+    <MESSAGE value="First laboratory work is done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="First laboratory work is done!" />
   </component>
 </project>
