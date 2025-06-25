@@ -19,7 +19,7 @@ with open("ConversionResult+.txt", "w", encoding="utf-8") as file:
     file.write(f"Выберите единицы, которые переводить – {typeInitialValue}\n")
     typeFinalValue = int(input("Выберите единицы, в которые переводить – "))
     file.write(f"Выберите единицы, в которые переводить – {typeFinalValue}\n")
-    initialValue = int(input("Введите переводимое значение – "))
+    initialValue = float(input("Введите переводимое значение – "))
     file.write(f"Введите переводимое значение – {initialValue}\n")
     print("\n", end="")
     file.write("\n")
@@ -28,7 +28,7 @@ with open("ConversionResult+.txt", "w", encoding="utf-8") as file:
     match typeInitialValue:
         case 1:
             print(f"{initialValue} бит(а) =", end=" ")
-            file.write(f"{initialValue} бит(а) =",)
+            file.write(f"{initialValue} бит(а) =")
             match typeFinalValue:
                 case 2:
                     finalValue = initialValue/8
@@ -91,17 +91,17 @@ with open("ConversionResult+.txt", "w", encoding="utf-8") as file:
     match typeFinalValue:
         case 1:
             print(f"{finalValue} бит(а)")
-            file.write(f"{finalValue} бит(а)")
+            file.write(f" {finalValue} бит(а)")
         case 2:
             print(f"{finalValue} байт(а)")
-            file.write(f"{finalValue} байт(а)")
+            file.write(f" {finalValue} байт(а)")
         case 3:
             print(f"{finalValue} килобайт(а)")
-            file.write(f"{finalValue} килобайт(а)")
+            file.write(f" {finalValue} килобайт(а)")
         case 4:
             print(f"{finalValue} мегабайт(а)")
-            file.write(f"{finalValue} мегабайт(а)")
+            file.write(f" {finalValue} мегабайт(а)")
         case 5:
             print(f"{finalValue} гигабайта(а)")
-            file.write(f"{finalValue} гигабайт(а)")
+            file.write(f" {finalValue} гигабайт(а)")
 
