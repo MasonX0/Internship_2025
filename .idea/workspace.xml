@@ -4,28 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="4 LW DONE">
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="corrections">
+      <change afterPath="$PROJECT_DIR$/How to create flow chart/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/How to create flow chart/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/How to create flow chart/3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/How to create flow chart/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Кодирование текстовой информации/AboutMe.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Кодирование текстовой информации/MasOn.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Кодирование текстовой информации/OutputSymbolsToFile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Кодирование текстовой информации/SymbolsToCODE.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Кодирование текстовой информации/Symbols_Counter.txt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Кодирование текстовой информации/Практика 1_LWFSI2025.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Кодирование чисел/Examination.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Кодирование чисел/Практика 2_LWFSI2025.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Стандартные алгоритмы/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Стандартные алгоритмы/2.1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Стандартные алгоритмы/2.1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Стандартные алгоритмы/2.2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Стандартные алгоритмы/2.2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Стандартные алгоритмы/2.3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Стандартные алгоритмы/2.3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Стандартные алгоритмы/Diagrams.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Стандартные алгоритмы/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Стандартные алгоритмы/Практика 3_LWFSI2025.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Одномерные массивы данных/11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Одномерные массивы данных/Практика 4_LWFSI202.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +77,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Ajgiz__MasOn",
+    "git-widget-placeholder": "Merging Ajgiz__MasOn",
     "last_opened_file_path": "C:/Users/T-y-r/PycharmProjects/Internship_2025-1"
   }
 }]]></component>
@@ -268,7 +253,23 @@
       <option name="project" value="LOCAL" />
       <updated>1750843790531</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="corrections">
+      <option name="closed" value="true" />
+      <created>1750845276946</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1750845276946</updated>
+    </task>
+    <task id="LOCAL-00021" summary="corrections">
+      <option name="closed" value="true" />
+      <created>1750845305886</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1750845305886</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -299,6 +300,7 @@
     <MESSAGE value="made it more convenient" />
     <MESSAGE value="now actually only block-diagram's remains + DOCX" />
     <MESSAGE value="4 LW DONE" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 LW DONE" />
+    <MESSAGE value="corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrections" />
   </component>
 </project>
