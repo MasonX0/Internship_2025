@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="1.3, 1 done">
-      <change afterPath="$PROJECT_DIR$/3PracticeTask/Converter.py" afterDir="false" />
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/3PracticeTask/ImprovedConverter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3PracticeTask/Converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/3PracticeTask/Converter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,25 +29,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;MasonX0&quot;
-  }
-}</component>
-  <component name="GithubProjectSettings">
-    <option name="branchProtectionPatterns">
-      <list>
-        <option value="main" />
-      </list>
-    </option>
-  </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MasonX0/Internship_2025-1.git",
-    "accountId": "d805a5cd-14c2-42ab-8d29-eea55adf0b8e"
-  }
-}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -54,35 +37,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Examination.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OutputSymbolsToFile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SymbolsToCODE.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Welcome.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;#2 on Dinar__1&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/T-y-r/PycharmProjects/Internship_2025-1&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Converter.executor": "Run",
+    "Python.ImprovedConverter.executor": "Run",
+    "Python.Welcome.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "#2 on Dinar__1"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\T-y-r\PycharmProjects\Internship_2025-1" />
-    </key>
-  </component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
       </set>
     </attachedChunks>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="" />
@@ -91,144 +64,6 @@
       <option name="presentableId" value="Default" />
       <updated>1750687472206</updated>
     </task>
-    <task id="LOCAL-00001" summary="Start">
-      <option name="closed" value="true" />
-      <created>1750688534593</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1750688534593</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Start!">
-      <option name="closed" value="true" />
-      <created>1750688667890</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1750688667890</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Finished the main part. It remains to figure out the 3rd task(">
-      <option name="closed" value="true" />
-      <created>1750712161130</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1750712161130</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Almost done">
-      <option name="closed" value="true" />
-      <created>1750712490688</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1750712490688</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Almost done">
-      <option name="closed" value="true" />
-      <created>1750712524552</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1750712524552</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Almost done">
-      <option name="closed" value="true" />
-      <created>1750712534571</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1750712534571</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Output">
-      <option name="closed" value="true" />
-      <created>1750712576204</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1750712576204</updated>
-    </task>
-    <task id="LOCAL-00008" summary="First laboratory work is done!">
-      <option name="closed" value="true" />
-      <created>1750780651295</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1750780651295</updated>
-    </task>
-    <task id="LOCAL-00009" summary="little sort">
-      <option name="closed" value="true" />
-      <created>1750781579123</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1750781579123</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Done.">
-      <option name="closed" value="true" />
-      <created>1750784490297</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1750784490297</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Done.">
-      <option name="closed" value="true" />
-      <created>1750784502005</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1750784502005</updated>
-    </task>
-    <task id="LOCAL-00012" summary="1.1">
-      <option name="closed" value="true" />
-      <created>1750786425384</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1750786425384</updated>
-    </task>
-    <task id="LOCAL-00013" summary="1.2">
-      <option name="closed" value="true" />
-      <created>1750787528626</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1750787528626</updated>
-    </task>
-    <task id="LOCAL-00014" summary="1.3, 1 done">
-      <option name="closed" value="true" />
-      <created>1750789273299</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1750789273299</updated>
-    </task>
-    <option name="localTasksCounter" value="15" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Start" />
-    <MESSAGE value="Start!" />
-    <MESSAGE value="Finished the main part. It remains to figure out the 3rd task(" />
-    <MESSAGE value="Almost done" />
-    <MESSAGE value="Output" />
-    <MESSAGE value="First laboratory work is done!" />
-    <MESSAGE value="little sort" />
-    <MESSAGE value="Done." />
-    <MESSAGE value="1.1" />
-    <MESSAGE value="1.2" />
-    <MESSAGE value="1.3, 1 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.3, 1 done" />
   </component>
 </project>
