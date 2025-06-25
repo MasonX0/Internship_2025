@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="now actually only block-diagram's remains + DOCX">
-      <change afterPath="$PROJECT_DIR$/3PracticeTask/FinalConverter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3PracticeTask/Практика 3.docx" afterDir="false" />
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="Finished the third practice task(not maybe =] )">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3PracticeTask/ConversionResult+.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3PracticeTask/ConversionResult+.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3PracticeTask/ImprovedConverter.py" beforeDir="false" afterPath="$PROJECT_DIR$/3PracticeTask/ImprovedConverter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3PracticeTask/ConversionResult++.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3PracticeTask/ConversionResult++.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3PracticeTask/FinalConverter.py" beforeDir="false" afterPath="$PROJECT_DIR$/3PracticeTask/FinalConverter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,31 +56,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.1.executor": "Run",
-    "Python.2.1.executor": "Run",
-    "Python.2.2.executor": "Run",
-    "Python.2.3.executor": "Run",
-    "Python.2.executor": "Run",
-    "Python.Diagrams.executor": "Run",
-    "Python.Examination.executor": "Run",
-    "Python.FinalConverter.executor": "Run",
-    "Python.ImprovedConverter.executor": "Run",
-    "Python.OutputSymbolsToFile.executor": "Run",
-    "Python.SymbolsToCODE.executor": "Run",
-    "Python.Welcome.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Dinar__1",
-    "last_opened_file_path": "C:/Users/lenovo/PycharmProjects/Internship_2025-1/3PracticeTask"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Diagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Examination.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FinalConverter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ImprovedConverter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OutputSymbolsToFile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SymbolsToCODE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Welcome.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Dinar__1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/PycharmProjects/Internship_2025-1/3PracticeTask&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\PycharmProjects\Internship_2025-1\3PracticeTask" />
       <recent name="C:\Users\T-y-r\PycharmProjects\Internship_2025-1" />
     </key>
   </component>
@@ -246,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750798471024</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Finished the third practice task(not maybe =] )">
+      <option name="closed" value="true" />
+      <created>1750865261173</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1750865261173</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,17 +283,7 @@
     <MESSAGE value="2.2" />
     <MESSAGE value="made it more convenient" />
     <MESSAGE value="now actually only block-diagram's remains + DOCX" />
-    <option name="LAST_COMMIT_MESSAGE" value="now actually only block-diagram's remains + DOCX" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/3PracticeTask/FinalConverter.py</url>
-          <line>97</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Finished the third practice task(not maybe =] )" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the third practice task(not maybe =] )" />
   </component>
 </project>

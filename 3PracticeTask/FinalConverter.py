@@ -89,7 +89,7 @@ with open("ConversionResult++.txt", "w", encoding="utf-8") as file:
             rightAnswer += 1
 
         programContinue = input("Продолжить? (y/n)\n")
-        file.write(f"Продолжить? (y/n) {programContinue}\n\n")
+        file.write(f"Продолжить? (y/n)\n{programContinue}\n")
         a = True
         while a:
             if programContinue == "n":
@@ -99,8 +99,9 @@ with open("ConversionResult++.txt", "w", encoding="utf-8") as file:
                 a = False
             else:
                 print("Только 'y' или 'n'")
+                file.write("Только 'y' или 'n'\n")
                 programContinue = input("Продолжить? (y/n)\n")
-                file.write(f"Продолжить? (y/n) {programContinue}\n")
+                file.write(f"Продолжить? (y/n)\n{programContinue}\n")
 
 
     print(f"ВЕРНЫХ ОТВЕТОВ – {rightAnswer}\nУДАЧИ!")
