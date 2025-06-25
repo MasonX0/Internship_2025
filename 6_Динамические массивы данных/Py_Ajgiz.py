@@ -28,7 +28,6 @@ def MinTemperature(list):
     mn = min(list)
     return mn
 
-
 print("Ваш список температур за неделю: ", listOfTemperatures)
 print("Min за неделю: ", MinTemperature(listOfTemperatures))
 print("Max за неделю: ", MaxTemperature(listOfTemperatures))
