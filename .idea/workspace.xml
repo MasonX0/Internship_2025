@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="6.1 is Done">
-      <change beforePath="$PROJECT_DIR$/6_Динамические массивы данных/Py_Ajgiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_Динамические массивы данных/Py_Ajgiz.py" afterDir="false" />
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="6.1 is Done, updated DOCX-file">
+      <change afterPath="$PROJECT_DIR$/6_Динамические массивы данных/6.2_Ajgiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_Динамические массивы данных/ListOfStudents_Ajgiz.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Динамические массивы данных/Py_Ajgiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_Динамические массивы данных/6.1_Ajgiz.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +67,7 @@
     "Python.2.2.executor": "Run",
     "Python.2.3.executor": "Run",
     "Python.2.executor": "Run",
+    "Python.6.2_Ajgiz.executor": "Run",
     "Python.Diagrams.executor": "Run",
     "Python.Examination.executor": "Run",
     "Python.OutputSymbolsToFile.executor": "Run",
@@ -282,7 +286,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750853292835</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="6.1 is Done, updated DOCX-file">
+      <option name="closed" value="true" />
+      <created>1750853555288</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1750853555288</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,6 +328,7 @@
     <MESSAGE value="corrections" />
     <MESSAGE value="5 LW is done" />
     <MESSAGE value="6.1 is Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.1 is Done" />
+    <MESSAGE value="6.1 is Done, updated DOCX-file" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.1 is Done, updated DOCX-file" />
   </component>
 </project>
