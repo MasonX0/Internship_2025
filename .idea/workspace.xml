@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="now actually only block-diagram's remains + DOCX">
-      <change afterPath="$PROJECT_DIR$/3_Стандартные алгоритмы/Diagrams.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Стандартные алгоритмы/2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_Стандартные алгоритмы/2.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,27 +55,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.1.executor": "Run",
-    "Python.2.1.executor": "Run",
-    "Python.2.2.executor": "Run",
-    "Python.2.3.executor": "Run",
-    "Python.2.executor": "Run",
-    "Python.Diagrams.executor": "Run",
-    "Python.Examination.executor": "Run",
-    "Python.OutputSymbolsToFile.executor": "Run",
-    "Python.SymbolsToCODE.executor": "Run",
-    "Python.Welcome.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Ajgiz__MasOn",
-    "last_opened_file_path": "C:/Users/T-y-r/PycharmProjects/Internship_2025-1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Diagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Examination.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OutputSymbolsToFile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SymbolsToCODE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Welcome.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Ajgiz__MasOn&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/T-y-r/PycharmProjects/Internship_2025-1&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\T-y-r\PycharmProjects\Internship_2025-1" />

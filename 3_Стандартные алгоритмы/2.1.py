@@ -1,8 +1,6 @@
 
 print("Метры:",end="")
 m=float(input())
-
-
 print("{0} метра = {1} километра".format(float(m),float(m/1000)))
 print("{0} метра = {1} дециметра".format(float(m),int(m*10)))
 print("{0} метра = {1} сантиметра".format(float(m),int(m*100)))
