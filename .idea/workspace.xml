@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="corrections">
-      <change afterPath="$PROJECT_DIR$/How to create flow chart/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/How to create flow chart/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/How to create flow chart/3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/How to create flow chart/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_Двумерные массивы данных, подпрограммы/11_Ajgiz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="aaf3c06c21c7d67a59c4807ef3e6a7dba430d486" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,6 +60,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.1.executor": "Run",
     "Python.11.1.executor": "Run",
+    "Python.11_Ajgiz.executor": "Run",
     "Python.2.1.executor": "Run",
     "Python.2.2.executor": "Run",
     "Python.2.3.executor": "Run",
@@ -77,7 +74,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Merging Ajgiz__MasOn",
+    "git-widget-placeholder": "Ajgiz__MasOn",
     "last_opened_file_path": "C:/Users/T-y-r/PycharmProjects/Internship_2025-1"
   }
 }]]></component>
