@@ -2,14 +2,21 @@ import numpy as np
 # Part 3 weeks of the month in which the average temperature is below the monthly average.
 choice = int(input("1 - ввод с клавиатуры, 2 - автозаполнение, 3 - с файла : "))
 if choice == 1:
-    first = []
-    second = []
+    month = None
     recruitedList = input("Введите числа через пробел, образец -> 30gradПн :")
     list = list(recruitedList.split())
     for i in list:
+
+        first = []
+        second = []
         part1, part2 = i.split("grad")
-        first.append(int(part1))
+        first.append(float(part1))
         second.append(part2)
+        matrix = np.column_stack((first, second))
+        if month is None:
+            month = matrix
+        else:
+            month = np.vstack((month, matrix))
 elif choice == 2:
     month = None
     for i in range(4):

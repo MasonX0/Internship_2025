@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="6 is Done,didn't update DOCX-file">
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="little corrections, it remains to update the DOCX file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Динамические массивы данных/6.3_Ajgiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_Динамические массивы данных/6.3_Ajgiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Динамические массивы данных/6.4_Ajgiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_Динамические массивы данных/6.4_Ajgiz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/6_Динамические массивы данных/6.5_Ajgiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_Динамические массивы данных/6.5_Ajgiz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_Динамические массивы данных/DataOfRooms.txt" beforeDir="false" afterPath="$PROJECT_DIR$/6_Динамические массивы данных/DataOfRooms.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Динамические массивы данных/Data&amp;Temperature.txt" beforeDir="false" afterPath="$PROJECT_DIR$/6_Динамические массивы данных/Data&amp;Temperature.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Динамические массивы данных/DataOfGrades.txt" beforeDir="false" afterPath="$PROJECT_DIR$/6_Динамические массивы данных/DataOfGrades.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Динамические массивы данных/Айгиз_Практика 6_LWFSI202.docx" beforeDir="false" afterPath="$PROJECT_DIR$/6_Динамические массивы данных/Айгиз_Практика 6_LWFSI202.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +72,7 @@
     "Python.2.executor": "Run",
     "Python.6.2_Ajgiz.executor": "Run",
     "Python.6.3.executor": "Run",
+    "Python.6.3_Ajgiz.executor": "Run",
     "Python.6.4_Ajgiz.executor": "Run",
     "Python.6.5_Ajgiz.executor": "Run",
     "Python.Diagrams.executor": "Run",
@@ -329,7 +334,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750967941060</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="little corrections, it remains to update the DOCX file">
+      <option name="closed" value="true" />
+      <created>1750969477316</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1750969477316</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -368,6 +381,7 @@
     <MESSAGE value="6.3 is Done,didn't update DOCX-file" />
     <MESSAGE value="6.4 is Done,didn't update DOCX-file" />
     <MESSAGE value="6 is Done,didn't update DOCX-file" />
-    <option name="LAST_COMMIT_MESSAGE" value="6 is Done,didn't update DOCX-file" />
+    <MESSAGE value="little corrections, it remains to update the DOCX file" />
+    <option name="LAST_COMMIT_MESSAGE" value="little corrections, it remains to update the DOCX file" />
   </component>
 </project>

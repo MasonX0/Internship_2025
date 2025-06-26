@@ -20,7 +20,7 @@ for i in ListOfBuildings:
     maxinBuilding = 0
     for g in ListOfFloors:
         infloor = 0
-        for j in List[1:]:
+        for j in List:
             if i == j[0] and g == j[-2]:
                 infloor += int(j[-1])
         if infloor > maxinBuilding:
@@ -32,5 +32,4 @@ for i in Final[1:]:
     if i[-1] > maxc:
         maxc = i[-1]
         numberofmax = i[0]
-        print(i)
 print("Самый заселенный этаж находится в  {}  общежитии, там живет  {}  человек.".format(numberofmax, maxc))

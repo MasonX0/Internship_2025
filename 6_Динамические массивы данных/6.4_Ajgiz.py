@@ -17,7 +17,7 @@ if choice == 1:
         s3.append(max(list(i)))
     srvse = s1 / s2
     for i in s3:
-        if float(i) > srvse:
+        if float(i) < srvse:
             cnt += 1
 if choice==2:
     cnt1=int(input("Введите количество учеников: "))
@@ -30,7 +30,7 @@ if choice==2:
         s3.append(max(gradeslist.tolist()))
     srvse = s1 / s2
     for i in s3:
-        if float(i) > srvse:
+        if float(i) < srvse:
             cnt+=1
 if choice==3:
     with open("DataOfGrades.txt", 'r', encoding='utf-8') as file:
@@ -45,7 +45,7 @@ if choice==3:
         s3.append(max(list(i)))
     srvse = s1 / s2
     for i in s3:
-        if float(i) > srvse:
+        if float(i) < srvse:
             cnt += 1
 print("Список оценнок группы: \n",endlist)
 print("Средний балл по группе: ",srvse)
