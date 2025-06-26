@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="6.4 is Done,didn't update DOCX-file">
-      <change afterPath="$PROJECT_DIR$/6_Динамические массивы данных/6.5_Ajgiz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_Динамические массивы данных/DataOfRooms.txt" afterDir="false" />
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="6 is Done,didn't update DOCX-file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_Динамические массивы данных/6.4_Ajgiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_Динамические массивы данных/6.4_Ajgiz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_Динамические массивы данных/Data&amp;OfGrades.txt" beforeDir="false" afterPath="$PROJECT_DIR$/6_Динамические массивы данных/DataOfGrades.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Динамические массивы данных/6.5_Ajgiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_Динамические массивы данных/6.5_Ajgiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_Динамические массивы данных/DataOfRooms.txt" beforeDir="false" afterPath="$PROJECT_DIR$/6_Динамические массивы данных/DataOfRooms.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -323,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750960157448</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="6 is Done,didn't update DOCX-file">
+      <option name="closed" value="true" />
+      <created>1750967941060</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1750967941060</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -361,6 +367,7 @@
     <MESSAGE value="6.2 is Done, updated DOCX-file" />
     <MESSAGE value="6.3 is Done,didn't update DOCX-file" />
     <MESSAGE value="6.4 is Done,didn't update DOCX-file" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.4 is Done,didn't update DOCX-file" />
+    <MESSAGE value="6 is Done,didn't update DOCX-file" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 is Done,didn't update DOCX-file" />
   </component>
 </project>
