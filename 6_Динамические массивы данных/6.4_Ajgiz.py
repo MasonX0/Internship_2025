@@ -7,7 +7,7 @@ sr = 0
 endlist=[]
 choice = int(input("1 - ввод с клавиатуры, 2 - автозаполнение, 3 - с файла : "))
 if choice == 1:
-    recruitedList = input("Введите числа через пробел:")[:-2]
+    recruitedList = input("Введите числа :")[:-2]
     slist = list(recruitedList.split("-1"))
     for i in slist:
         smlist = list(i)
@@ -33,7 +33,7 @@ if choice==2:
         if float(i) > srvse:
             cnt+=1
 if choice==3:
-    with open("Data&OfGrades.txt", 'r', encoding='utf-8') as file:
+    with open("DataOfGrades.txt", 'r', encoding='utf-8') as file:
         listOfTemperatures = file.readline()[:-2]
     slist = list(listOfTemperatures.split("-1"))
 
