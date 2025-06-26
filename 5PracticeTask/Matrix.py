@@ -22,12 +22,25 @@ def vector(matrix):
 
 #б)
 def multiplication(matrix, vector):
-    third_element = vector[2]
-    multiplied_matrix = [[x * vector[2] for x in row] for row in matrix]
+    if len(vector) >= 3:
+       third_element = vector[2]
+    else:
+       third_element = 1
+       print("Поскольку длина вектора меньше 3, как третий элемент берётся число 1")
+    multiplied_matrix = [[x * third_element for x in row] for row in matrix]
     return multiplied_matrix
 
+def summa(matrix, vector):
+    result = []
+    for k in range(rows):
+        new_row = []
+        for i in range(cols):
+            new_row.append(matrix[k][i] + vector[k])
+        result.append(new_row)
+    return result
 
-rows = int(input("Введите количество строк:"))
+
+rows = int(input("Введите количество строк (желательно не менее 3):"))
 cols = int(input("Введите количество столбцов:"))
 matrixGlobal = [[rm.randint(1, 100) for _ in range(cols)] for _ in range(rows)]
 
@@ -39,10 +52,18 @@ for k in range(rows):
 
 vectorGlobal = vector(matrixGlobal)
 multipliedMatrixGlobal = multiplication(matrixGlobal, vectorGlobal)
+newMatrixGlobal = summa(matrixGlobal, vectorGlobal)
+
 print(f"a) Вектор V = {vectorGlobal}")
 print("б) Умноженная матрица:")
 for k in range(rows):
     for i in range(cols):
         print(f"{multipliedMatrixGlobal[k][i]}\t", end = " ")
+    print("\n", end="")
+
+print(f"в) Изменённая матрица:")
+for k in range(rows):
+    for i in range(cols):
+        print(f"{newMatrixGlobal[k][i]}\t", end = " ")
     print("\n", end="")
 
