@@ -16,7 +16,6 @@ elif choice == 2:
         days = np.array(['Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб', 'Вс'])
         first = np.random.uniform(low=15, high=35, size=7)
         matrix = np.column_stack((first, days))
-
         if month is None:
             month = matrix
         else:
