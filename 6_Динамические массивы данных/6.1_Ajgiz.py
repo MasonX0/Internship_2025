@@ -12,18 +12,12 @@ elif choice == 3:
     listOfTemperatures = np.loadtxt("data_Ajgiz.txt")
 else:
     listOfTemperatures = np.random.uniform(low=15, high=35, size=7)
-
-
 def AverageTemperature(list):
     av = sum(list) / len(list)
     return av
-
-
 def MaxTemperature(list):
     mx = max(list)
     return mx
-
-
 def MinTemperature(list):
     mn = min(list)
     return mn
