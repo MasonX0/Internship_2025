@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="corrections">
-      <change afterPath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/1_12_Ajgiz.py" afterDir="false" />
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="1_11 is done">
+      <change afterPath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsINPUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsOUTPUT.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/2_12_Ajgiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/2_12_Ajgiz.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +68,7 @@
     "Python.2.2.executor": "Run",
     "Python.2.3.executor": "Run",
     "Python.2.executor": "Run",
+    "Python.2_12_Ajgiz.executor": "Run",
     "Python.6.2_Ajgiz.executor": "Run",
     "Python.6.3.executor": "Run",
     "Python.6.3_Ajgiz.executor": "Run",
@@ -363,7 +366,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751015812534</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="1_11 is done">
+      <option name="closed" value="true" />
+      <created>1751025329642</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1751025329642</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -378,7 +389,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Start!" />
     <MESSAGE value="Finished the main part. It remains to figure out the 3rd task(" />
     <MESSAGE value="Almost done" />
     <MESSAGE value="Output" />
@@ -403,6 +413,7 @@
     <MESSAGE value="little corrections, it remains to update the DOCX file" />
     <MESSAGE value="little corrections, updated the DOCX file" />
     <MESSAGE value="corrections" />
-    <option name="LAST_COMMIT_MESSAGE" value="corrections" />
+    <MESSAGE value="1_11 is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="1_11 is done" />
   </component>
 </project>
