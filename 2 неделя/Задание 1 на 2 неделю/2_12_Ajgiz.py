@@ -17,7 +17,6 @@ with open('stringsINPUT.txt', 'r', encoding='utf-8') as file:
                 L2.append(f"{j} ")
         if len(L2)>1:
             L1.append(L2)
-print(L1)
 with open('stringsOUTPUT.txt', 'w', encoding='utf-8') as file:
     for i in L1:
         file.write(("".join([j for j in i])+"\n"))
