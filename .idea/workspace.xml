@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="little corrections, updated the DOCX file">
-      <change afterPath="$PROJECT_DIR$/Сами задания/1_Кодирование текстовой информации/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Сами задания/3_Стандартные алгоритмы/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Сами задания/4_Одномерные массивы данных/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Сами задания/README.md" afterDir="false" />
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="2_12 is done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Кодирование текстовой информации/Айгиз_Практика 1_LWFSI202.docx" beforeDir="false" afterPath="$PROJECT_DIR$/1_Кодирование текстовой информации/Айгиз_Практика 1_LWFSI202.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Кодирование чисел/Айгиз_Практика 2_LWFSI202.docx" beforeDir="false" afterPath="$PROJECT_DIR$/2_Кодирование чисел/Айгиз_Практика 2_LWFSI202.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Стандартные алгоритмы/Айгиз_Практика 3_LWFSI202.docx" beforeDir="false" afterPath="$PROJECT_DIR$/3_Стандартные алгоритмы/Айгиз_Практика 3_LWFSI202.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Одномерные массивы данных/Айгиз_Практика 4_LWFSI202.docx" beforeDir="false" afterPath="$PROJECT_DIR$/4_Одномерные массивы данных/Айгиз_Практика 4_LWFSI202.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_Двумерные массивы данных, подпрограммы/Айгиз_Практика 5_LWFSI202.docx" beforeDir="false" afterPath="$PROJECT_DIR$/5_Двумерные массивы данных, подпрограммы/Айгиз_Практика 5_LWFSI202.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_Динамические массивы данных/~$гиз_Практика 6_LWFSI202.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_Динамические массивы данных/~WRL0365.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_Динамические массивы данных/Айгиз_Практика 6_LWFSI202.docx" beforeDir="false" afterPath="$PROJECT_DIR$/6_Динамические массивы данных/Айгиз_Практика 6_LWFSI202.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/1_12_Ajgiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/1_12_Ajgiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsINPUT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsINPUT.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsOUTPUT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsOUTPUT.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,10 +63,12 @@
     "Python.1.executor": "Run",
     "Python.11.1.executor": "Run",
     "Python.11_Ajgiz.executor": "Run",
+    "Python.1_12_Ajgiz.executor": "Run",
     "Python.2.1.executor": "Run",
     "Python.2.2.executor": "Run",
     "Python.2.3.executor": "Run",
     "Python.2.executor": "Run",
+    "Python.2_12_Ajgiz.executor": "Run",
     "Python.6.2_Ajgiz.executor": "Run",
     "Python.6.3.executor": "Run",
     "Python.6.3_Ajgiz.executor": "Run",
@@ -357,7 +350,55 @@
       <option name="project" value="LOCAL" />
       <updated>1750971613658</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="corrections">
+      <option name="closed" value="true" />
+      <created>1751014360630</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1751014360630</updated>
+    </task>
+    <task id="LOCAL-00032" summary="corrections">
+      <option name="closed" value="true" />
+      <created>1751015812534</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1751015812534</updated>
+    </task>
+    <task id="LOCAL-00033" summary="1_11 is done">
+      <option name="closed" value="true" />
+      <created>1751025329642</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1751025329642</updated>
+    </task>
+    <task id="LOCAL-00034" summary="2_12 is done">
+      <option name="closed" value="true" />
+      <created>1751028062235</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1751028062235</updated>
+    </task>
+    <task id="LOCAL-00035" summary="2_12 is done">
+      <option name="closed" value="true" />
+      <created>1751028306375</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1751028306375</updated>
+    </task>
+    <task id="LOCAL-00036" summary="2_12 is done">
+      <option name="closed" value="true" />
+      <created>1751028440897</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1751028440897</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -372,8 +413,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Start!" />
-    <MESSAGE value="Finished the main part. It remains to figure out the 3rd task(" />
     <MESSAGE value="Almost done" />
     <MESSAGE value="Output" />
     <MESSAGE value="First laboratory work is done!" />
@@ -387,7 +426,6 @@
     <MESSAGE value="made it more convenient" />
     <MESSAGE value="now actually only block-diagram's remains + DOCX" />
     <MESSAGE value="4 LW DONE" />
-    <MESSAGE value="corrections" />
     <MESSAGE value="5 LW is done" />
     <MESSAGE value="6.1 is Done" />
     <MESSAGE value="6.1 is Done, updated DOCX-file" />
@@ -397,6 +435,9 @@
     <MESSAGE value="6 is Done,didn't update DOCX-file" />
     <MESSAGE value="little corrections, it remains to update the DOCX file" />
     <MESSAGE value="little corrections, updated the DOCX file" />
-    <option name="LAST_COMMIT_MESSAGE" value="little corrections, updated the DOCX file" />
+    <MESSAGE value="corrections" />
+    <MESSAGE value="1_11 is done" />
+    <MESSAGE value="2_12 is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="2_12 is done" />
   </component>
 </project>
