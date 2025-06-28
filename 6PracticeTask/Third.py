@@ -27,7 +27,7 @@ if len(str_temperature) % 7 == 0:
     weeks_number = len(str_temperature)//7
 else:
     weeks_number = (len(str_temperature)//7)+1
-average_temperature_month = sum(temperature_list)/len(temperature_list)a
+average_temperature_month = sum(temperature_list)/len(temperature_list)
 for i in range(weeks_number):
     c0unt = 0
     week_temperature = []

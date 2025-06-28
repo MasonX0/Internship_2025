@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="Just for the sake of rollback">
-      <change afterPath="$PROJECT_DIR$/6PracticeTask/Read++.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="Completed 3/5 of the sixth practical assignment">
       <change beforePath="$PROJECT_DIR$/6PracticeTask/Third.py" beforeDir="false" afterPath="$PROJECT_DIR$/6PracticeTask/Third.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -335,7 +333,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751103572267</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Completed 3/5 of the sixth practical assignment">
+      <option name="closed" value="true" />
+      <created>1751114253188</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1751114253188</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -374,6 +380,7 @@
     <MESSAGE value="unfinished code for the fifth practical task" />
     <MESSAGE value="completed the fifth practical task" />
     <MESSAGE value="Just for the sake of rollback" />
-    <option name="LAST_COMMIT_MESSAGE" value="Just for the sake of rollback" />
+    <MESSAGE value="Completed 3/5 of the sixth practical assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed 3/5 of the sixth practical assignment" />
   </component>
 </project>
