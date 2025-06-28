@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="completed the fifth practical task">
-      <change afterPath="$PROJECT_DIR$/6PracticeTask/First.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6PracticeTask/Read+.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6PracticeTask/Read.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6PracticeTask/Second.py" afterDir="false" />
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="2/5 of the sixth practical assignment (code only)">
+      <change afterPath="$PROJECT_DIR$/6PracticeTask/Third.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +75,7 @@
     "Python.Py_Ajgiz.executor": "Run",
     "Python.Second.executor": "Run",
     "Python.SymbolsToCODE.executor": "Run",
+    "Python.Third.executor": "Run",
     "Python.Welcome.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
