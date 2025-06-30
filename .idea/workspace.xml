@@ -5,10 +5,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="2_12 is done">
+      <change afterPath="$PROJECT_DIR$/БПО09-24/2 неделя/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Internship_2025-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Internship_2025-1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/1_12_Ajgiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/1_12_Ajgiz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsINPUT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsINPUT.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsOUTPUT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsOUTPUT.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/1_Кодирование текстовой информации/AboutMe_Ajgiz.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/1_Кодирование текстовой информации/MasOn_Ajgiz.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/1_Кодирование текстовой информации/OutputSymbolsToFile_Ajgiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/1_Кодирование текстовой информации/SymbolsToCODE_Ajgiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/1_Кодирование текстовой информации/Symbols_Counter.txt_Ajgiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/1_Кодирование текстовой информации/Айгиз_Практика 1_LWFSI202.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/2_Кодирование чисел/Examination_Ajgiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/2_Кодирование чисел/Айгиз_Практика 2_LWFSI202.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/3_Стандартные алгоритмы/1_Ajgiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/3_Стандартные алгоритмы/2.1_Ajgiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/3_Стандартные алгоритмы/2.2_Ajgiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/3_Стандартные алгоритмы/2.3_Ajgiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/3_Стандартные алгоритмы/Айгиз_Практика 3_LWFSI202.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/4_Одномерные массивы данных/11_Ajgiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/4_Одномерные массивы данных/Айгиз_Практика 4_LWFSI202.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/5_Двумерные массивы данных, подпрограммы/11_Ajgiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/5_Двумерные массивы данных, подпрограммы/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/5_Двумерные массивы данных, подпрограммы/Айгиз_Практика 5_LWFSI202.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/6_Динамические массивы данных/6.1_Ajgiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/6_Динамические массивы данных/6.2_Ajgiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/6_Динамические массивы данных/6.3_Ajgiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/6_Динамические массивы данных/6.4_Ajgiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/6_Динамические массивы данных/6.5_Ajgiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/6_Динамические массивы данных/Data&amp;Temperature.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/6_Динамические массивы данных/DataOfGrades.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/6_Динамические массивы данных/DataOfRooms.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/6_Динамические массивы данных/ListOfStudents_Ajgiz.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/6_Динамические массивы данных/data_Ajgiz.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/6_Динамические массивы данных/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 неделя/6_Динамические массивы данных/Айгиз_Практика 6_LWFSI202.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 неделя/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/1_12_Ajgiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/2_12_Ajgiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsINPUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsOUTPUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/Айгиз_Практика 7_LWFSI202.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 2 на 2 неделю/12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 2 на 2 неделю/12_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 2 на 2 неделю/12_Ajgiz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 2 на 2 неделю/Сортировка массивов данных.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/1_неделя_задания/1_Кодирование текстовой информации/1_образец отчета.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/1_неделя_задания/1_Кодирование текстовой информации/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/1_неделя_задания/2_Кодирование чисел/2_readme.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/1_неделя_задания/3_Стандартные алгоритмы/3_СА2018.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/1_неделя_задания/3_Стандартные алгоритмы/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/1_неделя_задания/4_Одномерные массивы данных/4_алгоритмизация обработки одномерных массивов.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/1_неделя_задания/4_Одномерные массивы данных/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/1_неделя_задания/5_Двумерные массивы данных. Подпрограммы/5_алгоритмизация обработки двумерных массивов (1).doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/1_неделя_задания/5_Двумерные массивы данных. Подпрограммы/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/1_неделя_задания/6_Динамические массивы данных/6_Динамические массивы.DOC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/1_неделя_задания/6_Динамические массивы данных/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/2_неделя_задания/Задание 1 на 2 неделю/Задание 1 на 2 неделю.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/2_неделя_задания/Задание 2 на 2 неделю/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/2_неделя_задания/Задание 2 на 2 неделю/10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/2_неделя_задания/Задание 2 на 2 неделю/11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/2_неделя_задания/Задание 2 на 2 неделю/12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/2_неделя_задания/Задание 2 на 2 неделю/13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/2_неделя_задания/Задание 2 на 2 неделю/14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/2_неделя_задания/Задание 2 на 2 неделю/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/2_неделя_задания/Задание 2 на 2 неделю/3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/2_неделя_задания/Задание 2 на 2 неделю/4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/2_неделя_задания/Задание 2 на 2 неделю/5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/2_неделя_задания/Задание 2 на 2 неделю/6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/2_неделя_задания/Задание 2 на 2 неделю/7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/2_неделя_задания/Задание 2 на 2 неделю/8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/2_неделя_задания/Задание 2 на 2 неделю/9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/2_неделя_задания/Задание 2 на 2 неделю/Сортировка массивов данных.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сами задания/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +94,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Dinar_1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,12 +112,12 @@
       </list>
     </option>
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/MasonX0/Internship_2025-1.git&quot;,
-    &quot;accountId&quot;: &quot;bebe6151-e734-4b9a-85de-abac76127002&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MasonX0/Internship_2025-1",
+    "accountId": "64f1f89e-68aa-40d8-a837-ac50e3e902ba"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -57,38 +126,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.1.executor": "Run",
-    "Python.11.1.executor": "Run",
-    "Python.11_Ajgiz.executor": "Run",
-    "Python.1_12_Ajgiz.executor": "Run",
-    "Python.2.1.executor": "Run",
-    "Python.2.2.executor": "Run",
-    "Python.2.3.executor": "Run",
-    "Python.2.executor": "Run",
-    "Python.2_12_Ajgiz.executor": "Run",
-    "Python.6.2_Ajgiz.executor": "Run",
-    "Python.6.3.executor": "Run",
-    "Python.6.3_Ajgiz.executor": "Run",
-    "Python.6.4_Ajgiz.executor": "Run",
-    "Python.6.5_Ajgiz.executor": "Run",
-    "Python.Diagrams.executor": "Run",
-    "Python.Examination.executor": "Run",
-    "Python.OutputSymbolsToFile.executor": "Run",
-    "Python.Py_Ajgiz.executor": "Run",
-    "Python.SymbolsToCODE.executor": "Run",
-    "Python.Welcome.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Ajgiz__MasOn",
-    "last_opened_file_path": "C:/Users/admin/PycharmProjects/Internship_2025-1/Сами задания",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11_Ajgiz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_12_Ajgiz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_12_Ajgiz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.1_Ajgiz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.2_Ajgiz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.3_Ajgiz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.4_Ajgiz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.5_Ajgiz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Diagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Examination.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OutputSymbolsToFile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Py_Ajgiz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SymbolsToCODE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Welcome.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Ajgiz__MasOn&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/PycharmProjects/Internship_2025-1/Сами задания&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\PycharmProjects\Internship_2025-1\Сами задания" />
