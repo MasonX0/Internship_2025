@@ -6,5 +6,5 @@ with open ("ConversionResult.txt", "w", encoding='utf-8') as file:
    bytes = megabytesNumber * 1048576
    kilobytes = megabytesNumber * 1024
    gigabytes = megabytesNumber / 1024
-   print(f"{megabytesNumber} мегабайт(а) равны: {bits} битам, {bytes} байтам, {kilobytes} килобайтам, {gigabytes} гигабайтам")
+   print(f"{megabytesNumber} мегабайт(а) равны: {bits} битам, {bytes} байтам, {kilobytes} килобайтам, {gigabytes:.3f} гигабайтам")
    file.write(f"{megabytesNumber} мегабайт(а) равны: {bits} битам, {bytes} байтам, {kilobytes} килобайтам, {gigabytes} гигабайтам")
