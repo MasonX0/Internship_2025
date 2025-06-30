@@ -1,0 +1,197 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"c65f46ed-78a6-449b-adaf-4588cfffcd7f\" name=\"Changes\" comment=\"2_12 is done\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/1_12_Ajgiz.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/1_12_Ajgiz.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsINPUT.txt\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsINPUT.txt\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsOUTPUT.txt\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsOUTPUT.txt\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;MasonX0&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubProjectSettings\">\r\n    <option name=\"branchProtectionPatterns\">\r\n      <list>\r\n        <option value=\"main\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/MasonX0/Internship_2025-1.git&quot;,\r\n    &quot;accountId&quot;: &quot;bebe6151-e734-4b9a-85de-abac76127002&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 7\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2yubb0acLKoMTX4mRDWNJZDtD98\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"Python.1.executor\": \"Run\",\r\n    \"Python.11.1.executor\": \"Run\",\r\n    \"Python.11_Ajgiz.executor\": \"Run\",\r\n    \"Python.1_12_Ajgiz.executor\": \"Run\",\r\n    \"Python.2.1.executor\": \"Run\",\r\n    \"Python.2.2.executor\": \"Run\",\r\n    \"Python.2.3.executor\": \"Run\",\r\n    \"Python.2.executor\": \"Run\",\r\n    \"Python.2_12_Ajgiz.executor\": \"Run\",\r\n    \"Python.6.2_Ajgiz.executor\": \"Run\",\r\n    \"Python.6.3.executor\": \"Run\",\r\n    \"Python.6.3_Ajgiz.executor\": \"Run\",\r\n    \"Python.6.4_Ajgiz.executor\": \"Run\",\r\n    \"Python.6.5_Ajgiz.executor\": \"Run\",\r\n    \"Python.Diagrams.executor\": \"Run\",\r\n    \"Python.Examination.executor\": \"Run\",\r\n    \"Python.OutputSymbolsToFile.executor\": \"Run\",\r\n    \"Python.Py_Ajgiz.executor\": \"Run\",\r\n    \"Python.SymbolsToCODE.executor\": \"Run\",\r\n    \"Python.Welcome.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"Ajgiz__MasOn\",\r\n    \"last_opened_file_path\": \"C:/Users/admin/PycharmProjects/Internship_2025-1/Сами задания\",\r\n    \"settings.editor.selected.configurable\": \"preferences.lookFeel\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\admin\\PycharmProjects\\Internship_2025-1\\Сами задания\" />\r\n      <recent name=\"C:\\Users\\T-y-r\\PycharmProjects\\Internship_2025-1\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"c65f46ed-78a6-449b-adaf-4588cfffcd7f\" name=\"Changes\" comment=\"\" />\r\n      <created>1750687472206</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1750687472206</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Start\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750688534593</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750688534593</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Start!\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750688667890</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750688667890</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Finished the main part. It remains to figure out the 3rd task(\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750712161130</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750712161130</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Almost done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750712490688</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750712490688</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Almost done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750712524552</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750712524552</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Almost done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750712534571</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750712534571</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Output\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750712576204</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750712576204</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"First laboratory work is done!\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750780651295</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750780651295</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"little sort\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750781579123</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750781579123</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Done.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750784490297</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750784490297</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"Done.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750784502005</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750784502005</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"1.1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750786425384</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750786425384</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"1.2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750787528626</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750787528626</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"1.3, 1 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750789273299</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750789273299</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"2.1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750791226361</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750791226361</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"2.2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750793409625</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750793409625</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"2.2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750793464256</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750793464256</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00018\" summary=\"now actually only block-diagram's remains + DOCX\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750798471024</created>\r\n      <option name=\"number\" value=\"00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750798471024</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00019\" summary=\"4 LW DONE\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750843790531</created>\r\n      <option name=\"number\" value=\"00019\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00019\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750843790531</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00020\" summary=\"corrections\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750845276946</created>\r\n      <option name=\"number\" value=\"00020\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00020\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750845276946</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00021\" summary=\"corrections\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750845305886</created>\r\n      <option name=\"number\" value=\"00021\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00021\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750845305886</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00022\" summary=\"5 LW is done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750850762246</created>\r\n      <option name=\"number\" value=\"00022\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00022\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750850762246</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00023\" summary=\"6.1 is Done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750853292835</created>\r\n      <option name=\"number\" value=\"00023\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00023\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750853292835</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00024\" summary=\"6.1 is Done, updated DOCX-file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750853555288</created>\r\n      <option name=\"number\" value=\"00024\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00024\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750853555288</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00025\" summary=\"6.2 is Done, updated DOCX-file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750854705222</created>\r\n      <option name=\"number\" value=\"00025\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00025\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750854705222</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00026\" summary=\"6.3 is Done,didn't update DOCX-file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750954096409</created>\r\n      <option name=\"number\" value=\"00026\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00026\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750954096409</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00027\" summary=\"6.4 is Done,didn't update DOCX-file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750960157448</created>\r\n      <option name=\"number\" value=\"00027\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00027\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750960157448</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00028\" summary=\"6 is Done,didn't update DOCX-file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750967941060</created>\r\n      <option name=\"number\" value=\"00028\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00028\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750967941060</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00029\" summary=\"little corrections, it remains to update the DOCX file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750969477316</created>\r\n      <option name=\"number\" value=\"00029\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00029\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750969477316</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00030\" summary=\"little corrections, updated the DOCX file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750971613658</created>\r\n      <option name=\"number\" value=\"00030\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00030\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750971613658</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00031\" summary=\"corrections\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1751014360630</created>\r\n      <option name=\"number\" value=\"00031\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00031\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1751014360630</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00032\" summary=\"corrections\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1751015812534</created>\r\n      <option name=\"number\" value=\"00032\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00032\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1751015812534</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00033\" summary=\"1_11 is done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1751025329642</created>\r\n      <option name=\"number\" value=\"00033\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00033\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1751025329642</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00034\" summary=\"2_12 is done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1751028062235</created>\r\n      <option name=\"number\" value=\"00034\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00034\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1751028062235</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00035\" summary=\"2_12 is done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1751028306375</created>\r\n      <option name=\"number\" value=\"00035\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00035\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1751028306375</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00036\" summary=\"2_12 is done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1751028440897</created>\r\n      <option name=\"number\" value=\"00036\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00036\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1751028440897</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"37\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Almost done\" />\r\n    <MESSAGE value=\"Output\" />\r\n    <MESSAGE value=\"First laboratory work is done!\" />\r\n    <MESSAGE value=\"little sort\" />\r\n    <MESSAGE value=\"Done.\" />\r\n    <MESSAGE value=\"1.1\" />\r\n    <MESSAGE value=\"1.2\" />\r\n    <MESSAGE value=\"1.3, 1 done\" />\r\n    <MESSAGE value=\"2.1\" />\r\n    <MESSAGE value=\"2.2\" />\r\n    <MESSAGE value=\"made it more convenient\" />\r\n    <MESSAGE value=\"now actually only block-diagram's remains + DOCX\" />\r\n    <MESSAGE value=\"4 LW DONE\" />\r\n    <MESSAGE value=\"5 LW is done\" />\r\n    <MESSAGE value=\"6.1 is Done\" />\r\n    <MESSAGE value=\"6.1 is Done, updated DOCX-file\" />\r\n    <MESSAGE value=\"6.2 is Done, updated DOCX-file\" />\r\n    <MESSAGE value=\"6.3 is Done,didn't update DOCX-file\" />\r\n    <MESSAGE value=\"6.4 is Done,didn't update DOCX-file\" />\r\n    <MESSAGE value=\"6 is Done,didn't update DOCX-file\" />\r\n    <MESSAGE value=\"little corrections, it remains to update the DOCX file\" />\r\n    <MESSAGE value=\"little corrections, updated the DOCX file\" />\r\n    <MESSAGE value=\"corrections\" />\r\n    <MESSAGE value=\"1_11 is done\" />\r\n    <MESSAGE value=\"2_12 is done\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"2_12 is done\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 50deb50b4be9eb98b2db66805826e854889ecead)
++++ b/.idea/workspace.xml	(date 1751267779973)
+@@ -4,11 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="2_12 is done">
++    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="6.2 is Done, updated DOCX-file">
++      <change afterPath="$PROJECT_DIR$/6_Динамические массивы данных/6.3.py" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/1_12_Ajgiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/1_12_Ajgiz.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsINPUT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsINPUT.txt" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsOUTPUT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsOUTPUT.txt" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -45,8 +43,8 @@
+   </component>
+   <component name="GithubPullRequestsUISettings">{
+   &quot;selectedUrlAndAccountId&quot;: {
+-    &quot;url&quot;: &quot;https://github.com/MasonX0/Internship_2025-1.git&quot;,
+-    &quot;accountId&quot;: &quot;bebe6151-e734-4b9a-85de-abac76127002&quot;
++    &quot;url&quot;: &quot;https://github.com/MasonX0/Internship_2025-1&quot;,
++    &quot;accountId&quot;: &quot;64f1f89e-68aa-40d8-a837-ac50e3e902ba&quot;
+   }
+ }</component>
+   <component name="ProjectColorInfo">{
+@@ -63,17 +61,12 @@
+     "Python.1.executor": "Run",
+     "Python.11.1.executor": "Run",
+     "Python.11_Ajgiz.executor": "Run",
+-    "Python.1_12_Ajgiz.executor": "Run",
+     "Python.2.1.executor": "Run",
+     "Python.2.2.executor": "Run",
+     "Python.2.3.executor": "Run",
+     "Python.2.executor": "Run",
+-    "Python.2_12_Ajgiz.executor": "Run",
+     "Python.6.2_Ajgiz.executor": "Run",
+     "Python.6.3.executor": "Run",
+-    "Python.6.3_Ajgiz.executor": "Run",
+-    "Python.6.4_Ajgiz.executor": "Run",
+-    "Python.6.5_Ajgiz.executor": "Run",
+     "Python.Diagrams.executor": "Run",
+     "Python.Examination.executor": "Run",
+     "Python.OutputSymbolsToFile.executor": "Run",
+@@ -85,13 +78,11 @@
+     "RunOnceActivity.git.unshallow": "true",
+     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+     "git-widget-placeholder": "Ajgiz__MasOn",
+-    "last_opened_file_path": "C:/Users/admin/PycharmProjects/Internship_2025-1/Сами задания",
+-    "settings.editor.selected.configurable": "preferences.lookFeel"
++    "last_opened_file_path": "C:/Users/T-y-r/PycharmProjects/Internship_2025-1"
+   }
+ }]]></component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+-      <recent name="C:\Users\admin\PycharmProjects\Internship_2025-1\Сами задания" />
+       <recent name="C:\Users\T-y-r\PycharmProjects\Internship_2025-1" />
+     </key>
+   </component>
+@@ -310,95 +301,7 @@
+       <option name="project" value="LOCAL" />
+       <updated>1750854705222</updated>
+     </task>
+-    <task id="LOCAL-00026" summary="6.3 is Done,didn't update DOCX-file">
+-      <option name="closed" value="true" />
+-      <created>1750954096409</created>
+-      <option name="number" value="00026" />
+-      <option name="presentableId" value="LOCAL-00026" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1750954096409</updated>
+-    </task>
+-    <task id="LOCAL-00027" summary="6.4 is Done,didn't update DOCX-file">
+-      <option name="closed" value="true" />
+-      <created>1750960157448</created>
+-      <option name="number" value="00027" />
+-      <option name="presentableId" value="LOCAL-00027" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1750960157448</updated>
+-    </task>
+-    <task id="LOCAL-00028" summary="6 is Done,didn't update DOCX-file">
+-      <option name="closed" value="true" />
+-      <created>1750967941060</created>
+-      <option name="number" value="00028" />
+-      <option name="presentableId" value="LOCAL-00028" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1750967941060</updated>
+-    </task>
+-    <task id="LOCAL-00029" summary="little corrections, it remains to update the DOCX file">
+-      <option name="closed" value="true" />
+-      <created>1750969477316</created>
+-      <option name="number" value="00029" />
+-      <option name="presentableId" value="LOCAL-00029" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1750969477316</updated>
+-    </task>
+-    <task id="LOCAL-00030" summary="little corrections, updated the DOCX file">
+-      <option name="closed" value="true" />
+-      <created>1750971613658</created>
+-      <option name="number" value="00030" />
+-      <option name="presentableId" value="LOCAL-00030" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1750971613658</updated>
+-    </task>
+-    <task id="LOCAL-00031" summary="corrections">
+-      <option name="closed" value="true" />
+-      <created>1751014360630</created>
+-      <option name="number" value="00031" />
+-      <option name="presentableId" value="LOCAL-00031" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1751014360630</updated>
+-    </task>
+-    <task id="LOCAL-00032" summary="corrections">
+-      <option name="closed" value="true" />
+-      <created>1751015812534</created>
+-      <option name="number" value="00032" />
+-      <option name="presentableId" value="LOCAL-00032" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1751015812534</updated>
+-    </task>
+-    <task id="LOCAL-00033" summary="1_11 is done">
+-      <option name="closed" value="true" />
+-      <created>1751025329642</created>
+-      <option name="number" value="00033" />
+-      <option name="presentableId" value="LOCAL-00033" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1751025329642</updated>
+-    </task>
+-    <task id="LOCAL-00034" summary="2_12 is done">
+-      <option name="closed" value="true" />
+-      <created>1751028062235</created>
+-      <option name="number" value="00034" />
+-      <option name="presentableId" value="LOCAL-00034" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1751028062235</updated>
+-    </task>
+-    <task id="LOCAL-00035" summary="2_12 is done">
+-      <option name="closed" value="true" />
+-      <created>1751028306375</created>
+-      <option name="number" value="00035" />
+-      <option name="presentableId" value="LOCAL-00035" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1751028306375</updated>
+-    </task>
+-    <task id="LOCAL-00036" summary="2_12 is done">
+-      <option name="closed" value="true" />
+-      <created>1751028440897</created>
+-      <option name="number" value="00036" />
+-      <option name="presentableId" value="LOCAL-00036" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1751028440897</updated>
+-    </task>
+-    <option name="localTasksCounter" value="37" />
++    <option name="localTasksCounter" value="26" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -413,6 +316,9 @@
+     </option>
+   </component>
+   <component name="VcsManagerConfiguration">
++    <MESSAGE value="Start" />
++    <MESSAGE value="Start!" />
++    <MESSAGE value="Finished the main part. It remains to figure out the 3rd task(" />
+     <MESSAGE value="Almost done" />
+     <MESSAGE value="Output" />
+     <MESSAGE value="First laboratory work is done!" />
+@@ -426,18 +332,11 @@
+     <MESSAGE value="made it more convenient" />
+     <MESSAGE value="now actually only block-diagram's remains + DOCX" />
+     <MESSAGE value="4 LW DONE" />
++    <MESSAGE value="corrections" />
+     <MESSAGE value="5 LW is done" />
+     <MESSAGE value="6.1 is Done" />
+     <MESSAGE value="6.1 is Done, updated DOCX-file" />
+     <MESSAGE value="6.2 is Done, updated DOCX-file" />
+-    <MESSAGE value="6.3 is Done,didn't update DOCX-file" />
+-    <MESSAGE value="6.4 is Done,didn't update DOCX-file" />
+-    <MESSAGE value="6 is Done,didn't update DOCX-file" />
+-    <MESSAGE value="little corrections, it remains to update the DOCX file" />
+-    <MESSAGE value="little corrections, updated the DOCX file" />
+-    <MESSAGE value="corrections" />
+-    <MESSAGE value="1_11 is done" />
+-    <MESSAGE value="2_12 is done" />
+-    <option name="LAST_COMMIT_MESSAGE" value="2_12 is done" />
++    <option name="LAST_COMMIT_MESSAGE" value="6.2 is Done, updated DOCX-file" />
+   </component>
+ </project>
+\ No newline at end of file
