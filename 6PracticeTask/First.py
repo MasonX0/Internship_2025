@@ -27,6 +27,8 @@ def maximum_temperature(temperature_list: list):
 
 
 choice = input("Выберите тип ввода:\nс клавиатуры — 1   из файла — 2   с помощью генератора случайных чисел — 3\n")
+if choice != 1 and choice != 2 and choice != 3:
+    raise print("Перезапустите программу и введите цифру 1, 2 или 3" )
 match choice:
     case "1":
         temperature_str = input("Введите 7 значений температур через пробелы\n")

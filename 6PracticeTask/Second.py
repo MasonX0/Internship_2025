@@ -3,8 +3,8 @@
 # Предусмотреть выбор ввода данных с клавиатуры или из файла.
 
 choice = int(input("Укажите тип ввода данных\nс клавиатуры — 1   из файла — 2\n"))
-if choice > 2:
-    raise ValueError("неверное значение!")
+if choice != 1 and choice != 2:
+    raise print("Перезапустите программу и введите цифру 1 или 2" )
 if choice == 1:
     i = 1
     height_of_students = []
