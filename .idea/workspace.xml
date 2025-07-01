@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="final corrections">
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="2_12 is done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/БПО09-24/2 неделя/Задание 1-2 на 2 неделю/Айгиз_Практика 7_LWFSI202.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/1_12_Ajgiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/1_12_Ajgiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsINPUT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsINPUT.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsOUTPUT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2 неделя/Задание 1 на 2 неделю/stringsOUTPUT.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Dinar_1" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,12 +43,12 @@
       </list>
     </option>
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MasonX0/Internship_2025-1",
-    "accountId": "64f1f89e-68aa-40d8-a837-ac50e3e902ba"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MasonX0/Internship_2025-1.git&quot;,
+    &quot;accountId&quot;: &quot;bebe6151-e734-4b9a-85de-abac76127002&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -61,14 +63,12 @@
     "Python.1.executor": "Run",
     "Python.11.1.executor": "Run",
     "Python.11_Ajgiz.executor": "Run",
-    "Python.12_Ajgiz.executor": "Run",
     "Python.1_12_Ajgiz.executor": "Run",
     "Python.2.1.executor": "Run",
     "Python.2.2.executor": "Run",
     "Python.2.3.executor": "Run",
     "Python.2.executor": "Run",
     "Python.2_12_Ajgiz.executor": "Run",
-    "Python.6.1_Ajgiz.executor": "Run",
     "Python.6.2_Ajgiz.executor": "Run",
     "Python.6.3.executor": "Run",
     "Python.6.3_Ajgiz.executor": "Run",
@@ -398,23 +398,7 @@
       <option name="project" value="LOCAL" />
       <updated>1751028440897</updated>
     </task>
-    <task id="LOCAL-00037" summary="final corrections">
-      <option name="closed" value="true" />
-      <created>1751273946487</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1751273946487</updated>
-    </task>
-    <task id="LOCAL-00038" summary="final corrections">
-      <option name="closed" value="true" />
-      <created>1751274220014</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1751274220014</updated>
-    </task>
-    <option name="localTasksCounter" value="39" />
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -429,6 +413,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Almost done" />
     <MESSAGE value="Output" />
     <MESSAGE value="First laboratory work is done!" />
     <MESSAGE value="little sort" />
@@ -453,7 +438,6 @@
     <MESSAGE value="corrections" />
     <MESSAGE value="1_11 is done" />
     <MESSAGE value="2_12 is done" />
-    <MESSAGE value="final corrections" />
-    <option name="LAST_COMMIT_MESSAGE" value="final corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="2_12 is done" />
   </component>
 </project>
