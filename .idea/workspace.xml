@@ -4,39 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="Completed the sixth practical assignment">
-      <change afterPath="$PROJECT_DIR$/1Week/3PracticeTask/ConversionResult.txt" afterDir="false" />
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="Refactored files">
+      <change afterPath="$PROJECT_DIR$/2Week/1_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2Week/2_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2Week/3_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2Week/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2Week/Read.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2Week/Write.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1PracticeTask/1.1EncodingTheFullFame.py" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/1PracticeTask/1.1EncodingTheFullFame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1PracticeTask/Decoding.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/1PracticeTask/Decoding.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1PracticeTask/TheFullNameDecoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/1PracticeTask/TheFullNameDecoding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1PracticeTask/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/1PracticeTask/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1PracticeTask/Практика 1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/1PracticeTask/Практика 1.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2PracticeTask/TypeOfData.py" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/2PracticeTask/TypeOfData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2PracticeTask/Практика 2.docx" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/2PracticeTask/Практика 2.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3PracticeTask/ConversionResult++.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/3PracticeTask/ConversionResult++.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3PracticeTask/ConversionResult+.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/3PracticeTask/ConversionResult+.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3PracticeTask/ConversionResult.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3PracticeTask/Converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/3PracticeTask/Converter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3PracticeTask/FinalConverter.py" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/3PracticeTask/FinalConverter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3PracticeTask/ImprovedConverter.py" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/3PracticeTask/ImprovedConverter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3PracticeTask/Практика 3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/3PracticeTask/Практика 3.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4PracticeTask/4PracticeCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/4PracticeTask/4PracticeCode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4PracticeTask/Практика 4.docx" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/4PracticeTask/Практика 4.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4PracticeTask/Практика 4.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/4PracticeTask/Практика 4.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5PracticeTask/Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/5PracticeTask/Matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5PracticeTask/Практика 5.docx" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/5PracticeTask/Практика 5.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6PracticeTask/Fifth.py" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/6PracticeTask/Fifth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6PracticeTask/First.py" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/6PracticeTask/First.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6PracticeTask/Fourth.py" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/6PracticeTask/Fourth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6PracticeTask/Read++++.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/6PracticeTask/Read++++.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6PracticeTask/Read+++.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/6PracticeTask/Read+++.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6PracticeTask/Read++.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/6PracticeTask/Read++.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6PracticeTask/Read+.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/6PracticeTask/Read+.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6PracticeTask/Read.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/6PracticeTask/Read.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6PracticeTask/Second.py" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/6PracticeTask/Second.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6PracticeTask/Third.py" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/6PracticeTask/Third.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6PracticeTask/Практика 6.docx" beforeDir="false" afterPath="$PROJECT_DIR$/1Week/6PracticeTask/Практика 6.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,10 +59,13 @@
     "Python.1.executor": "Run",
     "Python.11.1.executor": "Run",
     "Python.11_Ajgiz.executor": "Run",
+    "Python.1_8.executor": "Run",
     "Python.2.1.executor": "Run",
     "Python.2.2.executor": "Run",
     "Python.2.3.executor": "Run",
     "Python.2.executor": "Run",
+    "Python.2_8.executor": "Run",
+    "Python.3_8.executor": "Run",
     "Python.6.2_Ajgiz.executor": "Run",
     "Python.6.3.executor": "Run",
     "Python.Converter.executor": "Run",
@@ -108,11 +86,13 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "Dinar__1",
-    "last_opened_file_path": "C:/Users/lenovo/PycharmProjects/Internship_2025-1/6PracticeTask"
+    "last_opened_file_path": "C:/Users/lenovo/PycharmProjects/Internship_2025-1/2Week",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\PycharmProjects\Internship_2025-1\2Week" />
       <recent name="C:\Users\lenovo\PycharmProjects\Internship_2025-1\6PracticeTask" />
       <recent name="C:\Users\lenovo\PycharmProjects\Internship_2025-1" />
       <recent name="C:\Users\T-y-r\PycharmProjects\Internship_2025-1" />
