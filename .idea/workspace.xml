@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="Refactored files">
-      <change afterPath="$PROJECT_DIR$/2Week/1_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2Week/2_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2Week/3_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2Week/8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2Week/Read.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2Week/Write.txt" afterDir="false" />
+    <list default="true" id="c65f46ed-78a6-449b-adaf-4588cfffcd7f" name="Changes" comment="Completed the tasks of the second week">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -374,7 +368,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751257260050</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Completed the tasks of the second week">
+      <option name="closed" value="true" />
+      <created>1751358276403</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1751358276403</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -389,7 +391,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Finished the main part. It remains to figure out the 3rd task(" />
     <MESSAGE value="Almost done" />
     <MESSAGE value="Output" />
     <MESSAGE value="First laboratory work is done!" />
@@ -414,6 +415,7 @@
     <MESSAGE value="Completed 3/5 of the sixth practical assignment" />
     <MESSAGE value="Completed 4/5 of the sixth practical assignment" />
     <MESSAGE value="Completed the sixth practical assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed the sixth practical assignment" />
+    <MESSAGE value="Completed the tasks of the second week" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the tasks of the second week" />
   </component>
 </project>
